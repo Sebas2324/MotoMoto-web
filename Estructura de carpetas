@@ -1,0 +1,27 @@
+📁 moto-repuestos/  
+│  
+├── 📁 assets/  
+│   ├── 📁 css/  
+│   │   ├── 📄 styles.css          # Estilos principales  
+│   │   └── 📄 responsive.css      # Estilos responsivos (opcional)  
+│   │  
+│   ├── 📁 js/  
+│   │   ├── 📄 main.js             # Funcionalidad principal  
+│   │   └── 📄 cart.js             # Lógica del carrito (opcional)  
+│   │  
+│   ├── 📁 images/  
+│   │   ├── 📁 productos/          # Imágenes de repuestos  
+│   │   ├── 📁 logos/              # Logotipos y marcas  
+│   │   └── 📁 banners/            # Banners promocionales  
+│   │  
+│   └── 📁 fonts/                  # Fuentes personalizadas (opcional)  
+│  
+├── 📁 pages/                      # Páginas adicionales  
+│   ├── 📄 productos.html          # Catálogo de repuestos  
+│   ├── 📄 contacto.html           # Formulario de contacto  
+│   ├── 📄 acerca-de.html          # Información de la tienda  
+│   └── 📄 carrito.html            # Página del carrito  
+│  
+├── 📄 index.html                  # Página principal (Home)  
+├── 📄 README.md                   # Documentación del proyecto (opcional)  
+└── 📄 .gitignore                  # Ignorar archivos no necesarios en Git  
